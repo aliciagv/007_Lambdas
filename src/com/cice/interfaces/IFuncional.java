@@ -11,7 +11,7 @@ package com.cice.interfaces;
  */
 public interface IFuncional {
     
-    void suma (int a,int b); //Métdo abstracto
+    void suma (int a,int b); //Método abstracto
     
     //Estos métodos por defecto pueden definir una funiconalidad del método pero también puede ser sobreescritos para cambiar su funcionalidad.
     
